@@ -1,0 +1,19 @@
+1 - What is Big-O notation?
+Answer - Its a mathematical notation to analyze the complexity of an algorithm OR measure an algorithm's efficiency.
+    In plain words, Big O notation describes the complexity of the code using algebraic terms like O(1), O(N) .. etc
+
+    more .. :)
+
+    Big-O is a standard mathematical notation that shows how efficient an algorithm is in the worst-case scenario 
+    relative to its input size. To measure the efficiency of an algorithm, we need to consider two things:
+        . Time Complexity: How much time does it take to run completely?
+        . Space Complexity: How much extra space does it require in the process?
+
+2 - Types of complexity analyses.
+Answer - Big O, Little O, Omega & Theta
+
+3 - Explain each type.
+Answer - Big O (O()) describes the upper bound(worst-case) of the complexity. 
+    Omega (Ω()) describes the lower bound of the complexity. 
+    Theta (Θ()) describes the exact bound of the complexity.
+    Little O (o()) describes the upper bound excluding the exact bound.

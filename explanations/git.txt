@@ -1,0 +1,4 @@
+1 - What the difference between git pull and git fetch?
+Answer - (git pull = git fetch = git merge) hahaha :)
+
+2 - 
